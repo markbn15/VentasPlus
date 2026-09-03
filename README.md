@@ -58,4 +58,7 @@ Si **VentasPlus** te ha sido de utilidad para gestionar tu negocio o proyecto de
 
 Hecho con ❤️ para la comunidad de código abierto.
 
+
+*Gracias kiri por el nombre del app
+
 </div>
