@@ -4,7 +4,6 @@
 
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![License](<img width="250" height="132" alt="The_ASF_Logo_(2025) svg" src="https://github.com/user-attachments/assets/96fb2b8b-42f5-499a-9bf2-a62269248f5f" />)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **VentasPlus** es una solución ligera, autónoma y privada diseñada para transformar tu dispositivo Android en un sistema de Punto de Venta (POS) completo. Desarrollada desde cero en **Android Studio** utilizando **Kotlin** nativo, permite gestionar inventarios, procesar ventas mediante código de barras/QR y validar pagos digitales de forma ágil.
@@ -13,7 +12,7 @@
 
 ### 📲 ¡Descarga la Aplicación Ahora!
 
-[<img src="https://img.shields.io/badge/Descargar_Última_Versión-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" height="45">](https://github.com/markbn15/VentasPlus/releases/new)
+[<img src="https://img.shields.io/badge/Descargar_Última_Versión-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" height="45">](https://github.com/markbn15/VentasPlus/releases)
 
 > 📌 **Ubicación del archivo guardado:**  
 > `C:\Users\Admin\Downloads` *(o la carpeta de descargas predeterminada de tu dispositivo)*.
