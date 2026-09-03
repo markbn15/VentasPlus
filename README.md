@@ -14,10 +14,6 @@
 
 [<img src="https://img.shields.io/badge/Descargar_Última_Versión-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" height="45">](https://github.com/markbn15/VentasPlus/releases)
 
-> 📌 **Ubicación del archivo guardado:**  
-> `C:\Users\Admin\Downloads` *(o la carpeta de descargas predeterminada de tu dispositivo)*.
-
----
 
 </div>
 
@@ -45,7 +41,7 @@
 * **S.O. Compatible:** Android 7.0 (API Nivel 24) o superior.
 * **Permisos requeridos:**
   * 📷 `Cámara`: Para la lectura de códigos de barras/QR.
-  * 🔔 `Acceso a Notificaciones`: Para la verificación de confirmaciones de pago bancarias.
+  * 🔔 `Acceso a Notificaciones`: Para la verificación de confirmaciones de pago bancarias.(omitible si quieres tu mismo verificar los datos de la transaccion)
 
 ---
 
