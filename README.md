@@ -104,9 +104,9 @@ git clone [https://github.com/markbn15/VentasPlus.git](https://github.com/markbn
 # 3. Sincroniza el proyecto con los archivos Gradle
 
 # 4. Compila y ejecuta en un dispositivo físico o emulador
-```
-```
-⭐ Apoya el Proyecto
+``
+
+##⭐ Apoya el Proyecto
 Si VentasPlus te ha sido de utilidad para gestionar tu negocio o proyecto de desarrollo:
 
 Dale una Estrella (⭐) a este repositorio en la parte superior derecha de GitHub.
@@ -127,8 +127,6 @@ Agradecimiento especial a las tecnologías, librerías y personas que hicieron p
 Hecho con ❤️ para la comunidad de código abierto.
 
 *Gracias kiri por el nombre del app*
-
-📄 Licencia
 
 ## 📄 Licencia
 
