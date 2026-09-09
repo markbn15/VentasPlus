@@ -92,10 +92,13 @@
 
 ## 💻 Compilación e Instalación
 
-```bash
+``
 # 1. Clona este repositorio
+
+```bash
 git clone [https://github.com/markbn15/VentasPlus.git](https://github.com/markbn15/VentasPlus.git)
 
+```
 # 2. Abre el proyecto en Android Studio (versión recomendada)
 
 # 3. Sincroniza el proyecto con los archivos Gradle
