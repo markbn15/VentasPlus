@@ -105,6 +105,7 @@ git clone [https://github.com/markbn15/VentasPlus.git](https://github.com/markbn
 
 # 4. Compila y ejecuta en un dispositivo físico o emulador
 ```
+```
 ⭐ Apoya el Proyecto
 Si VentasPlus te ha sido de utilidad para gestionar tu negocio o proyecto de desarrollo:
 
