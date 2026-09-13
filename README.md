@@ -3,7 +3,7 @@
 # 🚀 VentasPlus — Punto de Venta & Control de Inventario Inteligente
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8328ae36-0e37-442b-8ebc-2e82c6ee64e4" alt="VentasPlus Logo" width="200" height="200" />
+<img width="350" height="350" alt="Ventaplus" src="https://github.com/user-attachments/assets/48fad2dc-f2a1-4354-893d-b05194a112f7" />
 </p>
 
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
