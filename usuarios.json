@@ -1,1 +1,14 @@
-
+[
+  {
+    "usuario": "Markbn115",
+    "activo": true
+  },
+  {
+    "usuario": "Markbn116",
+    "activo": true
+  },
+  {
+    "usuario": "Mirian-sanz",
+    "activo": false
+  }
+]
